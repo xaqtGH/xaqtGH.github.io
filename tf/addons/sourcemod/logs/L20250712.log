@@ -1,0 +1,125 @@
+L 07/12/2025 - 11:51:44: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 11:51:44: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 11:51:44: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 11:51:45: [mapchooser.smx] Voting for next map has finished. Nextmap: koth_king.
+L 07/12/2025 - 11:51:47: [SM] Changed map to "koth_king"
+L 07/12/2025 - 11:51:49: -------- Mapchange to koth_king --------
+L 07/12/2025 - 11:54:38: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 11:54:38: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 11:57:38: [SM] Changed map to "koth_harvest_final"
+L 07/12/2025 - 11:57:39: -------- Mapchange to koth_harvest_final --------
+L 07/12/2025 - 11:59:29: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 11:59:29: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 11:59:34: [mapchooser.smx] Voting for next map has finished. 'No Change' was the winner
+L 07/12/2025 - 12:01:27: Log file closed.
+L 07/12/2025 - 12:02:23: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 12:02:23: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 12:02:23: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 12:02:24: [mapchooser.smx] Voting for next map has finished. Nextmap: ctf_turbine.
+L 07/12/2025 - 12:02:26: [SM] Changed map to "ctf_turbine"
+L 07/12/2025 - 12:02:27: -------- Mapchange to ctf_turbine --------
+L 07/12/2025 - 12:36:27: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 12:36:27: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 12:36:27: [mapchooser.smx] Voting for next map has finished. Nextmap: koth_nucleus.
+L 07/12/2025 - 12:36:29: [SM] Changed map to "koth_nucleus"
+L 07/12/2025 - 12:36:31: -------- Mapchange to koth_nucleus --------
+L 07/12/2025 - 13:08:02: Log file closed.
+L 07/12/2025 - 13:10:44: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 13:10:44: -------- Mapchange to trade_what_fix --------
+L 07/12/2025 - 13:23:36: Log file closed.
+L 07/12/2025 - 13:24:36: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 13:24:36: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 13:24:36: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 13:24:40: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_what_fix.
+L 07/12/2025 - 13:24:42: [SM] Changed map to "trade_what_fix"
+L 07/12/2025 - 13:24:43: -------- Mapchange to trade_what_fix --------
+L 07/12/2025 - 13:43:07: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 13:43:07: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 13:43:26: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_plaza_max.
+L 07/12/2025 - 13:43:28: [SM] Changed map to "trade_plaza_max"
+L 07/12/2025 - 13:43:30: -------- Mapchange to trade_plaza_max --------
+L 07/12/2025 - 14:03:56: Log file closed.
+L 07/12/2025 - 14:06:03: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 14:06:03: -------- Mapchange to trade_coni --------
+L 07/12/2025 - 14:07:28: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 14:07:28: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 14:07:28: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 14:07:30: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_coni.
+L 07/12/2025 - 14:07:32: [SM] Changed map to "trade_coni"
+L 07/12/2025 - 14:07:35: -------- Mapchange to trade_coni --------
+L 07/12/2025 - 14:10:33: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 14:10:33: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 14:10:33: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 14:10:35: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_coni.
+L 07/12/2025 - 14:10:37: [SM] Changed map to "trade_coni"
+L 07/12/2025 - 14:10:39: -------- Mapchange to trade_coni --------
+L 07/12/2025 - 14:11:38: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 14:11:38: -------- Mapchange to trade_what_fix --------
+L 07/12/2025 - 14:13:02: Log file closed.
+L 07/12/2025 - 14:13:40: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 14:13:40: -------- Mapchange to trade_coni --------
+L 07/12/2025 - 14:38:26: Log file closed.
+L 07/12/2025 - 14:39:17: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 14:39:17: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 14:39:17: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 14:39:19: [mapchooser.smx] Voting for next map has finished. 'No Change' was the winner
+L 07/12/2025 - 14:43:06: [SM] Changed map to "walmart_bettermeme_v13b"
+L 07/12/2025 - 14:43:09: -------- Mapchange to walmart_bettermeme_v13b --------
+L 07/12/2025 - 14:47:23: Log file closed.
+L 07/12/2025 - 15:18:35: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 15:18:35: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 15:18:35: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 15:18:41: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_apadiel.
+L 07/12/2025 - 15:18:43: [SM] Changed map to "trade_apadiel"
+L 07/12/2025 - 15:18:47: -------- Mapchange to trade_apadiel --------
+L 07/12/2025 - 15:21:21: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 15:21:21: -------- Mapchange to trade_apadiel --------
+L 07/12/2025 - 15:34:27: Log file closed.
+L 07/12/2025 - 15:48:27: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 15:48:27: [funcommands.smx] "xaqt<2><[U:1:275900560]><>" set a TimeBomb on "xaqt<2><[U:1:275900560]><>"
+L 07/12/2025 - 15:49:14: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 15:49:14: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 15:49:15: [mapchooser.smx] Voting for next map has finished. Nextmap: mario_kart_deluxe_v3.
+L 07/12/2025 - 15:49:17: [SM] Changed map to "mario_kart_deluxe_v3"
+L 07/12/2025 - 15:49:21: -------- Mapchange to mario_kart_deluxe_v3 --------
+L 07/12/2025 - 15:53:03: Log file closed.
+L 07/12/2025 - 15:59:45: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 15:59:45: [rtd.smx] Loaded 82 perks (41 good, 41 bad)
+L 07/12/2025 - 16:04:36: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 16:04:36: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 16:04:37: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_houseofchaos.
+L 07/12/2025 - 16:04:39: [SM] Changed map to "trade_houseofchaos"
+L 07/12/2025 - 16:04:42: -------- Mapchange to trade_houseofchaos --------
+L 07/12/2025 - 16:07:54: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 16:07:54: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 16:07:55: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_houseofchaos2.
+L 07/12/2025 - 16:07:57: [SM] Changed map to "trade_houseofchaos2"
+L 07/12/2025 - 16:08:00: -------- Mapchange to trade_houseofchaos2 --------
+L 07/12/2025 - 16:24:48: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 16:24:48: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 16:25:08: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_coni.
+L 07/12/2025 - 16:25:11: [SM] Changed map to "trade_coni"
+L 07/12/2025 - 16:25:17: -------- Mapchange to trade_coni --------
+L 07/12/2025 - 16:51:08: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 16:51:08: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 16:51:28: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_delirium.
+L 07/12/2025 - 16:51:30: [SM] Changed map to "trade_delirium"
+L 07/12/2025 - 16:51:36: -------- Mapchange to trade_delirium --------
+L 07/12/2025 - 16:59:24: [funcommands.smx] "xaqt<2><[U:1:275900560]><>" toggled noclip on "xaqt<2><[U:1:275900560]><>"
+L 07/12/2025 - 16:59:53: [funcommands.smx] "xaqt<2><[U:1:275900560]><>" toggled noclip on "xaqt<2><[U:1:275900560]><>"
+L 07/12/2025 - 17:06:12: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 17:06:12: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 17:06:13: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_apadiel.
+L 07/12/2025 - 17:06:15: [SM] Changed map to "trade_apadiel"
+L 07/12/2025 - 17:06:23: -------- Mapchange to trade_apadiel --------
+L 07/12/2025 - 17:24:33: Log file closed.
+L 07/12/2025 - 17:24:41: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 17:24:41: [rtd.smx] Loaded 82 perks (41 good, 41 bad)
+L 07/12/2025 - 17:44:07: Log file closed.
+L 07/12/2025 - 17:44:14: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250712.log") (Version "1.12.0.7210")
+L 07/12/2025 - 17:44:14: [rtd.smx] Loaded 82 perks (41 good, 41 bad)
+L 07/12/2025 - 18:09:02: [mapchooser.smx] Starting map vote because outside request
+L 07/12/2025 - 18:09:02: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 18:09:09: [mapchooser.smx] Voting for next map has finished. 'No Change' was the winner
+L 07/12/2025 - 18:58:21: [mapchooser.smx] Voting for next map has started.
+L 07/12/2025 - 19:26:40: Log file closed.

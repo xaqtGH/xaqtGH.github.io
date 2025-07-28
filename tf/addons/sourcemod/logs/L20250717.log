@@ -1,0 +1,31 @@
+L 07/17/2025 - 12:23:34: SourceMod log file session started (file "c:\users\rayan\downloads\servers\1\serverfiles\tf\addons\sourcemod\logs\L20250717.log") (Version "1.12.0.7210")
+L 07/17/2025 - 12:23:34: [rtd.smx] Loaded 82 perks (41 good, 41 bad)
+L 07/17/2025 - 12:41:05: [mapchooser.smx] Starting map vote because outside request
+L 07/17/2025 - 12:41:05: [mapchooser.smx] Voting for next map has started.
+L 07/17/2025 - 12:41:06: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_houseofchaos2.
+L 07/17/2025 - 12:41:08: [SM] Changed map to "trade_houseofchaos2"
+L 07/17/2025 - 12:41:11: -------- Mapchange to trade_houseofchaos2 --------
+L 07/17/2025 - 12:54:50: [mapchooser.smx] Starting map vote because outside request
+L 07/17/2025 - 12:54:50: [mapchooser.smx] Voting for next map has started.
+L 07/17/2025 - 12:54:51: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_abstract.
+L 07/17/2025 - 12:54:53: [SM] Changed map to "trade_abstract"
+L 07/17/2025 - 12:54:55: -------- Mapchange to trade_abstract --------
+L 07/17/2025 - 13:04:39: [mapchooser.smx] Starting map vote because outside request
+L 07/17/2025 - 13:04:39: [mapchooser.smx] Voting for next map has started.
+L 07/17/2025 - 13:04:40: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_apadiel.
+L 07/17/2025 - 13:04:42: [SM] Changed map to "trade_apadiel"
+L 07/17/2025 - 13:04:47: -------- Mapchange to trade_apadiel --------
+L 07/17/2025 - 14:02:36: [mapchooser.smx] Voting for next map has started.
+L 07/17/2025 - 14:02:43: [mapchooser.smx] Voting for next map has finished. Nextmap: trade_abstract2.
+L 07/17/2025 - 14:03:11: [rockthevote.smx] RTV changing map manually
+L 07/17/2025 - 14:03:11: [SM] Changed map to "trade_abstract2"
+L 07/17/2025 - 14:03:13: -------- Mapchange to trade_abstract2 --------
+L 07/17/2025 - 14:08:50: [mapchooser.smx] Starting map vote because outside request
+L 07/17/2025 - 14:08:50: [mapchooser.smx] Voting for next map has started.
+L 07/17/2025 - 14:08:53: [mapchooser.smx] Voting for next map has finished. Nextmap: mario_kart_deluxe_v3.
+L 07/17/2025 - 14:08:55: [SM] Changed map to "mario_kart_deluxe_v3"
+L 07/17/2025 - 14:08:58: -------- Mapchange to mario_kart_deluxe_v3 --------
+L 07/17/2025 - 14:09:49: [mapchooser.smx] Starting map vote because outside request
+L 07/17/2025 - 14:09:49: [mapchooser.smx] Voting for next map has started.
+L 07/17/2025 - 14:10:10: [mapchooser.smx] Voting for next map has finished. 'No Change' was the winner
+L 07/17/2025 - 14:19:58: Log file closed.
