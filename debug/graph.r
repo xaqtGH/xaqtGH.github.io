@@ -1,5 +1,8 @@
-function(visualizemsg) {
-    print("Visualization in progress...") # Print initiation text
-}
+library(jsonlite)
+library(rjson)
 
-print("test")
+jsonData = fromJSON(out.json)
+
+print("Visualization in progress...")
+
+
