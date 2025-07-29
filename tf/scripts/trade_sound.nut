@@ -1,3 +1,3 @@
 function (trade_sound) {
-	void EmitSoundEx(sound_name = achievement_earned)
+	void EmitSoundEx(sound_name = sound/misc/achievement_earned.wav)
 }
