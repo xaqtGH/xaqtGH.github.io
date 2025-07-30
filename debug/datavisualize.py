@@ -15,8 +15,7 @@ def begin():
         "recentMap": str_recentmap
     }
 
-
-    with open("debug\out.json", "w") as f:
+    with open("out.json", "w") as f:
         json.dump(data, f, indent=4) # indent for pretty-printing
 
     print("JSON file generated!")
@@ -36,5 +35,4 @@ def begin():
 
     if user_input == "N": #if N, ask me for input again
         print("Aborting...")
-        begin()
 begin()
