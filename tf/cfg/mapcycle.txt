@@ -11,3 +11,4 @@ mario_kart_deluxe_v3
 harbl_hotel
 trade_abstract
 trade_abstract2
+sa2b_chao_world_v1
