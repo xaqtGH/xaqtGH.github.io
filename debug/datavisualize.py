@@ -35,5 +35,3 @@ if user_input == "Y": #if Y, generate the player count graph
 
 if user_input == "N":
     print("Aborting...")
-
-
