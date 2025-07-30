@@ -35,4 +35,5 @@ def begin():
 
     if user_input == "N": #if N, ask me for input again
         print("Aborting...")
+        begin()
 begin()
