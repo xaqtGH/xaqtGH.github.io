@@ -1,1 +1,1 @@
-A website created as both a server content backup as well as being the hosting mirror for users joining my TF2 community server.
+A website created as both my personal coding website as well as being a little portfolio of my projects as i learn
