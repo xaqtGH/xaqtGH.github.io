@@ -1,1 +1,2 @@
 A website created as both my personal coding website as well as being a little portfolio of my projects as I learn
+This repository also holds as a mirror for maps for my TF2 server. Upon connecting, this is where maps are downloaded from.
