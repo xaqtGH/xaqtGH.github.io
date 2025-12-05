@@ -8,6 +8,8 @@ trade_coni
 trade_delirium
 trade_houseofchaos
 trade_houseofchaos2
+trade_kennedy
 trade_mall
+trade_minecraft_realms_v2
 trade_plaza_max
 walmart_bettermeme_v13b
